@@ -6,7 +6,7 @@ Each "project" contains an overview of the operation of the firearm and a descri
 
 # Projects
 
-- [Colt Python (2020+)](./colt-python/README.md) [Export](./colt-python/Export)
+- [Colt Python (2020+)](./colt-python/README.md)
 
 # Licensing
 
