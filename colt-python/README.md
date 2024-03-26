@@ -27,308 +27,232 @@ This is a sound pack of various operations on a colt python.  This is my first a
 ## Previews
 
 Restrained Freedom - Colt Python - Cylinder Open-003
-
-![Restrained Freedom - Colt Python - Cylinder Open-003](Export/Restrained Freedom - Colt Python - Cylinder Open-003.mp4)
+./Export/Restrained Freedom - Colt Python - Cylinder Open-003.mp4
 
 Restrained Freedom - Colt Python - Cylinder Open-004
-
-![Restrained Freedom - Colt Python - Cylinder Open-004](Export/Restrained Freedom - Colt Python - Cylinder Open-004.mp4)
+./Export/Restrained Freedom - Colt Python - Cylinder Open-004.mp4
 
 Restrained Freedom - Colt Python - Cylinder Open-005
-
-![Restrained Freedom - Colt Python - Cylinder Open-005](Export/Restrained Freedom - Colt Python - Cylinder Open-005.mp4)
+./Export/Restrained Freedom - Colt Python - Cylinder Open-005.mp4
 
 Restrained Freedom - Colt Python - Cylinder Open-006
-
-![Restrained Freedom - Colt Python - Cylinder Open-006](Export/Restrained Freedom - Colt Python - Cylinder Open-006.mp4)
+./Export/Restrained Freedom - Colt Python - Cylinder Open-006.mp4
 
 Restrained Freedom - Colt Python - Cylinder Open-007
-
-![Restrained Freedom - Colt Python - Cylinder Open-007](Export/Restrained Freedom - Colt Python - Cylinder Open-007.mp4)
+./Export/Restrained Freedom - Colt Python - Cylinder Open-007.mp4
 
 Restrained Freedom - Colt Python - Cylinder Swing Close-001
-
-![Restrained Freedom - Colt Python - Cylinder Swing Close-001](Export/Restrained Freedom - Colt Python - Cylinder Swing Close-001.mp4)
+./Export/Restrained Freedom - Colt Python - Cylinder Swing Close-001.mp4
 
 Restrained Freedom - Colt Python - Cylinder Swing Close-002
-
-![Restrained Freedom - Colt Python - Cylinder Swing Close-002](Export/Restrained Freedom - Colt Python - Cylinder Swing Close-002.mp4)
+./Export/Restrained Freedom - Colt Python - Cylinder Swing Close-002.mp4
 
 Restrained Freedom - Colt Python - Eject Live
-
-![Restrained Freedom - Colt Python - Eject Live](Export/Restrained Freedom - Colt Python - Eject Live.mp4)
+./Export/Restrained Freedom - Colt Python - Eject Live.mp4
 
 Restrained Freedom - Colt Python - Eject Spent Rounds-001
-
-![Restrained Freedom - Colt Python - Eject Spent Rounds-001](Export/Restrained Freedom - Colt Python - Eject Spent Rounds-001.mp4)
+./Export/Restrained Freedom - Colt Python - Eject Spent Rounds-001.mp4
 
 Restrained Freedom - Colt Python - Eject Spent Rounds-002
-
-![Restrained Freedom - Colt Python - Eject Spent Rounds-002](Export/Restrained Freedom - Colt Python - Eject Spent Rounds-002.mp4)
+./Export/Restrained Freedom - Colt Python - Eject Spent Rounds-002.mp4
 
 Restrained Freedom - Colt Python - Eject Spent Rounds-003
-
-![Restrained Freedom - Colt Python - Eject Spent Rounds-003](Export/Restrained Freedom - Colt Python - Eject Spent Rounds-003.mp4)
+./Export/Restrained Freedom - Colt Python - Eject Spent Rounds-003.mp4
 
 Restrained Freedom - Colt Python - Eject With Carpet Impact
-
-![Restrained Freedom - Colt Python - Eject With Carpet Impact](Export/Restrained Freedom - Colt Python - Eject With Carpet Impact.mp4)
+./Export/Restrained Freedom - Colt Python - Eject With Carpet Impact.mp4
 
 Restrained Freedom - Colt Python - Ejector Rod Only
-
-![Restrained Freedom - Colt Python - Ejector Rod Only](Export/Restrained Freedom - Colt Python - Ejector Rod Only.mp4)
+./Export/Restrained Freedom - Colt Python - Ejector Rod Only.mp4
 
 Restrained Freedom - Colt Python - Hammer Cock-001
-
-![Restrained Freedom - Colt Python - Hammer Cock-001](Export/Restrained Freedom - Colt Python - Hammer Cock-001.mp4)
+./Export/Restrained Freedom - Colt Python - Hammer Cock-001.mp4
 
 Restrained Freedom - Colt Python - Hammer Cock-002
-
-![Restrained Freedom - Colt Python - Hammer Cock-002](Export/Restrained Freedom - Colt Python - Hammer Cock-002.mp4)
+./Export/Restrained Freedom - Colt Python - Hammer Cock-002.mp4
 
 Restrained Freedom - Colt Python - Hammer Cock-003
-
-![Restrained Freedom - Colt Python - Hammer Cock-003](Export/Restrained Freedom - Colt Python - Hammer Cock-003.mp4)
+./Export/Restrained Freedom - Colt Python - Hammer Cock-003.mp4
 
 Restrained Freedom - Colt Python - Hammer Cock-004
-
-![Restrained Freedom - Colt Python - Hammer Cock-004](Export/Restrained Freedom - Colt Python - Hammer Cock-004.mp4)
+./Export/Restrained Freedom - Colt Python - Hammer Cock-004.mp4
 
 Restrained Freedom - Colt Python - Hammer Cock-005
-
-![Restrained Freedom - Colt Python - Hammer Cock-005](Export/Restrained Freedom - Colt Python - Hammer Cock-005.mp4)
+./Export/Restrained Freedom - Colt Python - Hammer Cock-005.mp4
 
 Restrained Freedom - Colt Python - Hammer Cock-006
-
-![Restrained Freedom - Colt Python - Hammer Cock-006](Export/Restrained Freedom - Colt Python - Hammer Cock-006.mp4)
+./Export/Restrained Freedom - Colt Python - Hammer Cock-006.mp4
 
 Restrained Freedom - Colt Python - Hammer Decock-001
-
-![Restrained Freedom - Colt Python - Hammer Decock-001](Export/Restrained Freedom - Colt Python - Hammer Decock-001.mp4)
+./Export/Restrained Freedom - Colt Python - Hammer Decock-001.mp4
 
 Restrained Freedom - Colt Python - Hammer Decock-002
-
-![Restrained Freedom - Colt Python - Hammer Decock-002](Export/Restrained Freedom - Colt Python - Hammer Decock-002.mp4)
+./Export/Restrained Freedom - Colt Python - Hammer Decock-002.mp4
 
 Restrained Freedom - Colt Python - Hammer Decock-003
-
-![Restrained Freedom - Colt Python - Hammer Decock-003](Export/Restrained Freedom - Colt Python - Hammer Decock-003.mp4)
+./Export/Restrained Freedom - Colt Python - Hammer Decock-003.mp4
 
 Restrained Freedom - Colt Python - Hammer Decock-004
-
-![Restrained Freedom - Colt Python - Hammer Decock-004](Export/Restrained Freedom - Colt Python - Hammer Decock-004.mp4)
+./Export/Restrained Freedom - Colt Python - Hammer Decock-004.mp4
 
 Restrained Freedom - Colt Python - Holster and Snap
-
-![Restrained Freedom - Colt Python - Holster and Snap](Export/Restrained Freedom - Colt Python - Holster and Snap.mp4)
+./Export/Restrained Freedom - Colt Python - Holster and Snap.mp4
 
 Restrained Freedom - Colt Python - Load Empty Round-001
-
-![Restrained Freedom - Colt Python - Load Empty Round-001](Export/Restrained Freedom - Colt Python - Load Empty Round-001.mp4)
+./Export/Restrained Freedom - Colt Python - Load Empty Round-001.mp4
 
 Restrained Freedom - Colt Python - Load Empty Round-002
-
-![Restrained Freedom - Colt Python - Load Empty Round-002](Export/Restrained Freedom - Colt Python - Load Empty Round-002.mp4)
+./Export/Restrained Freedom - Colt Python - Load Empty Round-002.mp4
 
 Restrained Freedom - Colt Python - Load Empty Round-003
-
-![Restrained Freedom - Colt Python - Load Empty Round-003](Export/Restrained Freedom - Colt Python - Load Empty Round-003.mp4)
+./Export/Restrained Freedom - Colt Python - Load Empty Round-003.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-001
-
-![Restrained Freedom - Colt Python - Load Live Round-001](Export/Restrained Freedom - Colt Python - Load Live Round-001.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-001.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-002
-
-![Restrained Freedom - Colt Python - Load Live Round-002](Export/Restrained Freedom - Colt Python - Load Live Round-002.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-002.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-003
-
-![Restrained Freedom - Colt Python - Load Live Round-003](Export/Restrained Freedom - Colt Python - Load Live Round-003.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-003.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-004
-
-![Restrained Freedom - Colt Python - Load Live Round-004](Export/Restrained Freedom - Colt Python - Load Live Round-004.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-004.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-005
-
-![Restrained Freedom - Colt Python - Load Live Round-005](Export/Restrained Freedom - Colt Python - Load Live Round-005.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-005.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-006
-
-![Restrained Freedom - Colt Python - Load Live Round-006](Export/Restrained Freedom - Colt Python - Load Live Round-006.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-006.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-007
-
-![Restrained Freedom - Colt Python - Load Live Round-007](Export/Restrained Freedom - Colt Python - Load Live Round-007.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-007.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-008
-
-![Restrained Freedom - Colt Python - Load Live Round-008](Export/Restrained Freedom - Colt Python - Load Live Round-008.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-008.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-009
-
-![Restrained Freedom - Colt Python - Load Live Round-009](Export/Restrained Freedom - Colt Python - Load Live Round-009.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-009.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-010
-
-![Restrained Freedom - Colt Python - Load Live Round-010](Export/Restrained Freedom - Colt Python - Load Live Round-010.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-010.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-011
-
-![Restrained Freedom - Colt Python - Load Live Round-011](Export/Restrained Freedom - Colt Python - Load Live Round-011.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-011.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-012
-
-![Restrained Freedom - Colt Python - Load Live Round-012](Export/Restrained Freedom - Colt Python - Load Live Round-012.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-012.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-013
-
-![Restrained Freedom - Colt Python - Load Live Round-013](Export/Restrained Freedom - Colt Python - Load Live Round-013.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-013.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-014
-
-![Restrained Freedom - Colt Python - Load Live Round-014](Export/Restrained Freedom - Colt Python - Load Live Round-014.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-014.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-015
-
-![Restrained Freedom - Colt Python - Load Live Round-015](Export/Restrained Freedom - Colt Python - Load Live Round-015.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-015.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-016
-
-![Restrained Freedom - Colt Python - Load Live Round-016](Export/Restrained Freedom - Colt Python - Load Live Round-016.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-016.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-017
-
-![Restrained Freedom - Colt Python - Load Live Round-017](Export/Restrained Freedom - Colt Python - Load Live Round-017.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-017.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-018
-
-![Restrained Freedom - Colt Python - Load Live Round-018](Export/Restrained Freedom - Colt Python - Load Live Round-018.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-018.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-019
-
-![Restrained Freedom - Colt Python - Load Live Round-019](Export/Restrained Freedom - Colt Python - Load Live Round-019.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-019.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-020
-
-![Restrained Freedom - Colt Python - Load Live Round-020](Export/Restrained Freedom - Colt Python - Load Live Round-020.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-020.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-021
-
-![Restrained Freedom - Colt Python - Load Live Round-021](Export/Restrained Freedom - Colt Python - Load Live Round-021.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-021.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-022
-
-![Restrained Freedom - Colt Python - Load Live Round-022](Export/Restrained Freedom - Colt Python - Load Live Round-022.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-022.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-023
-
-![Restrained Freedom - Colt Python - Load Live Round-023](Export/Restrained Freedom - Colt Python - Load Live Round-023.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-023.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-024
-
-![Restrained Freedom - Colt Python - Load Live Round-024](Export/Restrained Freedom - Colt Python - Load Live Round-024.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-024.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-025
-
-![Restrained Freedom - Colt Python - Load Live Round-025](Export/Restrained Freedom - Colt Python - Load Live Round-025.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-025.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-026
-
-![Restrained Freedom - Colt Python - Load Live Round-026](Export/Restrained Freedom - Colt Python - Load Live Round-026.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-026.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-027
-
-![Restrained Freedom - Colt Python - Load Live Round-027](Export/Restrained Freedom - Colt Python - Load Live Round-027.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-027.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-028
-
-![Restrained Freedom - Colt Python - Load Live Round-028](Export/Restrained Freedom - Colt Python - Load Live Round-028.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-028.mp4
 
 Restrained Freedom - Colt Python - Load Live Round-029
-
-![Restrained Freedom - Colt Python - Load Live Round-029](Export/Restrained Freedom - Colt Python - Load Live Round-029.mp4)
+./Export/Restrained Freedom - Colt Python - Load Live Round-029.mp4
 
 Restrained Freedom - Colt Python - Load With Speed Loader-001
-
-![Restrained Freedom - Colt Python - Load With Speed Loader-001](Export/Restrained Freedom - Colt Python - Load With Speed Loader-001.mp4)
+./Export/Restrained Freedom - Colt Python - Load With Speed Loader-001.mp4
 
 Restrained Freedom - Colt Python - Load With Speed Loader-002
-
-![Restrained Freedom - Colt Python - Load With Speed Loader-002](Export/Restrained Freedom - Colt Python - Load With Speed Loader-002.mp4)
+./Export/Restrained Freedom - Colt Python - Load With Speed Loader-002.mp4
 
 Restrained Freedom - Colt Python - Open Snap and Draw
-
-![Restrained Freedom - Colt Python - Open Snap and Draw](Export/Restrained Freedom - Colt Python - Open Snap and Draw.mp4)
+./Export/Restrained Freedom - Colt Python - Open Snap and Draw.mp4
 
 Restrained Freedom - Colt Python - Spin Cylindar While Open
-
-![Restrained Freedom - Colt Python - Spin Cylindar While Open](Export/Restrained Freedom - Colt Python - Spin Cylindar While Open.mp4)
+./Export/Restrained Freedom - Colt Python - Spin Cylindar While Open.mp4
 
 Restrained Freedom - Colt Python - Spin-001
-
-![Restrained Freedom - Colt Python - Spin-001](Export/Restrained Freedom - Colt Python - Spin-001.mp4)
+./Export/Restrained Freedom - Colt Python - Spin-001.mp4
 
 Restrained Freedom - Colt Python - Spin-002
-
-![Restrained Freedom - Colt Python - Spin-002](Export/Restrained Freedom - Colt Python - Spin-002.mp4)
+./Export/Restrained Freedom - Colt Python - Spin-002.mp4
 
 Restrained Freedom - Colt Python - Spin-003
-
-![Restrained Freedom - Colt Python - Spin-003](Export/Restrained Freedom - Colt Python - Spin-003.mp4)
+./Export/Restrained Freedom - Colt Python - Spin-003.mp4
 
 Restrained Freedom - Colt Python - Spin-004
-
-![Restrained Freedom - Colt Python - Spin-004](Export/Restrained Freedom - Colt Python - Spin-004.mp4)
+./Export/Restrained Freedom - Colt Python - Spin-004.mp4
 
 Restrained Freedom - Colt Python - Trigger Double Action-001
-
-![Restrained Freedom - Colt Python - Trigger Double Action-001](Export/Restrained Freedom - Colt Python - Trigger Double Action-001.mp4)
+./Export/Restrained Freedom - Colt Python - Trigger Double Action-001.mp4
 
 Restrained Freedom - Colt Python - Trigger Double Action-002
-
-![Restrained Freedom - Colt Python - Trigger Double Action-002](Export/Restrained Freedom - Colt Python - Trigger Double Action-002.mp4)
+./Export/Restrained Freedom - Colt Python - Trigger Double Action-002.mp4
 
 Restrained Freedom - Colt Python - Trigger Release-001
-
-![Restrained Freedom - Colt Python - Trigger Release-001](Export/Restrained Freedom - Colt Python - Trigger Release-001.mp4)
+./Export/Restrained Freedom - Colt Python - Trigger Release-001.mp4
 
 Restrained Freedom - Colt Python - Trigger Release-002
-
-![Restrained Freedom - Colt Python - Trigger Release-002](Export/Restrained Freedom - Colt Python - Trigger Release-002.mp4)
+./Export/Restrained Freedom - Colt Python - Trigger Release-002.mp4
 
 Restrained Freedom - Colt Python - Trigger Release-003
-
-![Restrained Freedom - Colt Python - Trigger Release-003](Export/Restrained Freedom - Colt Python - Trigger Release-003.mp4)
+./Export/Restrained Freedom - Colt Python - Trigger Release-003.mp4
 
 Restrained Freedom - Colt Python - Trigger Single Action-001
-
-![Restrained Freedom - Colt Python - Trigger Single Action-001](Export/Restrained Freedom - Colt Python - Trigger Single Action-001.mp4)
+./Export/Restrained Freedom - Colt Python - Trigger Single Action-001.mp4
 
 Restrained Freedom - Colt Python - Trigger Single Action-002
-
-![Restrained Freedom - Colt Python - Trigger Single Action-002](Export/Restrained Freedom - Colt Python - Trigger Single Action-002.mp4)
+./Export/Restrained Freedom - Colt Python - Trigger Single Action-002.mp4
 
 Restrained Freedom - Colt Python - Cylinder Close-001
-
-![Restrained Freedom - Colt Python - Cylinder Close-001](Export/Restrained Freedom - Colt Python - Cylinder Close-001.mp4)
+./Export/Restrained Freedom - Colt Python - Cylinder Close-001.mp4
 
 Restrained Freedom - Colt Python - Cylinder Close-002
-
-![Restrained Freedom - Colt Python - Cylinder Close-002](Export/Restrained Freedom - Colt Python - Cylinder Close-002.mp4)
+./Export/Restrained Freedom - Colt Python - Cylinder Close-002.mp4
 
 Restrained Freedom - Colt Python - Cylinder Close-003
-
-![Restrained Freedom - Colt Python - Cylinder Close-003](Export/Restrained Freedom - Colt Python - Cylinder Close-003.mp4)
+./Export/Restrained Freedom - Colt Python - Cylinder Close-003.mp4
 
 Restrained Freedom - Colt Python - Cylinder Open-001
-
-![Restrained Freedom - Colt Python - Cylinder Open-001](Export/Restrained Freedom - Colt Python - Cylinder Open-001.mp4)
+./Export/Restrained Freedom - Colt Python - Cylinder Open-001.mp4
 
 Restrained Freedom - Colt Python - Cylinder Open-002
-
-![Restrained Freedom - Colt Python - Cylinder Open-002](Export/Restrained Freedom - Colt Python - Cylinder Open-002.mp4)
+./Export/Restrained Freedom - Colt Python - Cylinder Open-002.mp4
 
 
 
@@ -338,5 +262,5 @@ Regex to generate previews
 
 ```
 ".*Export\\([A-Za-z0-9].*).mp4"
-$1\n\n![$1](Export/$1.mp4)\n
+$1\n./Export/$1.mp4\n
 ```
