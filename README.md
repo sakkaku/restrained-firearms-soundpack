@@ -6,15 +6,7 @@ Each "project" contains an overview of the operation of the firearm and a descri
 
 # Projects
 
-- [Colt Python (2020+)](./colt-python/README.md)
-- Planned
-  - Sig P226 Legion DA/SA
-  - Tikka T3
-  - Baretta A300 Ultima Patrol
-  - AR-15
-  - FN FNP-40
-  - Baretta Nano
-  - AK-47
+- [Colt Python (2020+)](./colt-python/README.md) [Export](./colt-pythjon/Export)
 
 # Licensing
 
@@ -29,10 +21,6 @@ https://envalid.com
 
 You can provide a link to the repo if you want but it is not a substitute for the attribution requirements.
 
-# Commissions
-
-I am open to creating custom sounds under a more commercial friendly license.  Feel free to contact me.
-
 # Support
 
-If you would like to support me feel free to tip me on my [ko-fi page](https://ko-fi.com/envalid).  Any support is not necessary but greatly appreciated.
+If you would like to support me feel free to tip me on my [ko-fi page](https://ko-fi.com/envalid).
