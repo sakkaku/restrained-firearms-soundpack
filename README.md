@@ -5,6 +5,7 @@ This is a sound library and instructional for various firearms related sounds an
 # Projects
 
 - [Colt Python (2020+)](./colt-python/README.md)
+- [Tikka T3](./tikka-t3/README.md)
 
 # Licensing
 
