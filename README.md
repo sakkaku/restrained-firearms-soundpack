@@ -2,8 +2,6 @@
 
 This is a sound library and instructional for various firearms related sounds and operations.
 
-Each "project" contains an overview of the operation of the firearm and a description of each sound such that it should have enough information to do animations.
-
 # Projects
 
 - [Colt Python (2020+)](./colt-python/README.md)
