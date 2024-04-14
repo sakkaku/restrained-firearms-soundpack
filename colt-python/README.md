@@ -13,8 +13,8 @@ This is a sound pack of various operations on a colt python.  This is my first a
 ## Software
 
 - Reaper 7.x
-- UAD 1176LN Rev E Compressor
-- UAD Oxide Tape Recorder
+- UAD API Vision Channel Strip
+- UAD Struder A800 Tape
 
 ## Project Structure
 
