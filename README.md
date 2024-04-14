@@ -10,12 +10,12 @@ Each "project" contains an overview of the operation of the firearm and a descri
 
 # Licensing
 
-Restrained Firearms Soundpack © 2024 is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Restrained Firearms Soundpack is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 Attribution must be specified as:
 
 ```
-Restrained Firearms Soundpack © 2024
+Restrained Firearms Soundpack
 https://envalid.com
 ```
 
