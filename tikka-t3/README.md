@@ -5,13 +5,13 @@ This is a sound pack of various operations on a Tikka T3 Lite.
 ## Equipment
 
 - Firearm: Tikka T3 Lite Stainless (.308), Boyds At-one Chassis
-- Audio Chain: Austrian Audio OC818 (Mic) -> Warm Audio TB12 (Preamp) -> Focusrite 18i20 Gen 3 (ADC)
+- Audio Chain: Austrian Audio OC818 (Mic) -> Warm Audio TB12 (Preamp) -> Focusrite 18i20 Gen 3 (Audio Interface)
 
 ## Software
 
 - Reaper 7.x
-- UAD API Vision Channel Strip
-- UAD Struder A800 Tape
+- UAD API Vision Channel Strip (Gate / Compression / EQ)
+- UAD Struder A800 Tape (Limiter / Saturation)
 
 ## Project Structure
 
@@ -25,3 +25,7 @@ This is a sound pack of various operations on a Tikka T3 Lite.
 - Hammer is recocked on bolt open after firing.
 - Safety prevents the bolt from being operated when engaged.
 - The magazine is detachable and you cannot reload the magazine without detaching it as the feed lips force the round to be inserted from the front.
+
+## Notes
+
+- Snap caps were used for "loading" sounds.  They sound a bit weird due to it being anodized aluminum (higher pitched and gritty) vs brass (lower pitched and thumpy).
