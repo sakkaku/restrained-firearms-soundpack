@@ -6,9 +6,7 @@ This is a sound pack of various operations on a colt python.  This is my first a
 
 - Firearm: Colt Python 6" Stainless (2020+)
 - Speedloader: HKS A-Series Colt Python
-- Holster: Diamond-D Denali Chest Holster
-- Microphone: Austrian Audio OC818
-- Interface: Audient EVO4
+- Audio Chain: Austrian Audio OC818 (Mic) -> Audient EVO4 (Interface)
 
 ## Software
 
