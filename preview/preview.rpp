@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.14/win64" 1713320666
+<REAPER_PROJECT 0.1 "7.14/win64" 1713454666
   AUTHOR Envalid
   <NOTES 0 2
   >
@@ -20,7 +20,7 @@
   PANMODE 3
   PANLAWFLAGS 3
   CURSOR 0
-  ZOOM 392.51779035621234 0 0
+  ZOOM 392.51779035621234 5205 0
   VZOOMEX 5 0
   USE_REC_CFG 0
   RECMODE 1
@@ -138,6 +138,84 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8B6EFB4-141A-4EDD-AB11-67338C86F7B7}
+      IID 26
+      NAME "Colt Python - Spin - 002"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8555F25-F92E-4108-BB9E-3C88E1E49C38}
+      <SOURCE WAVE
+        FILE "A:\restrained-firearms-soundpack\colt-python\Export\Restrained Freedom - Colt Python - Spin-002.wav"
+      >
+      <TAKEFX
+        WNDRECT 1203 120 655 408
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <VIDEO_EFFECT "Video processor" ""
+          <CODE
+            |// Text/timecode overlay
+            |#text=""; // set to string to override
+            |font="Inter";
+            |
+            |//@param1:size 'text height' 0.05 0.01 0.2 0.1 0.001
+            |//@param2:ypos 'y position' 0.95 0 1 0.5 0.01
+            |//@param3:xpos 'x position' 0.5 0 1 0.5 0.01
+            |//@param4:border 'bg pad' 0.1 0 1 0.5 0.01
+            |//@param5:fgc 'text bright' 1.0 0 1 0.5 0.01
+            |//@param6:fga 'text alpha' 1.0 0 1 0.5 0.01
+            |//@param7:bgc 'bg bright' 0.75 0 1 0.5 0.01
+            |//@param8:bga 'bg alpha' 0.5 0 1 0.5 0.01
+            |//@param9:bgfit 'fit bg to text' 0 0 1 0.5 1
+            |//@param10:ignoreinput 'ignore input' 0 0 1 0.5 1
+            |
+            |//@param12:tc 'show timecode' 0 0 1 0.5 1
+            |//@param13:tcdf 'dropframe timecode' 0 0 1 0.5 1
+            |
+            |input = ignoreinput ? -2:0;
+            |project_wh_valid===0 ? input_info(input,project_w,project_h);
+            |gfx_a2=0;
+            |gfx_blit(input,1);
+            |gfx_setfont(size*project_h,font);
+            |tc>0.5 ? (
+            |  t = floor((project_time + project_timeoffs) * framerate + 0.0000001);
+            |  f = ceil(framerate);
+            |  tcdf > 0.5 && f != framerate ? (
+            |    period = floor(framerate * 600);
+            |    ds = floor(framerate * 60);
+            |    ds > 0 ? t += 18 * ((t / period)|0) + ((((t%period)-2)/ds)|0)*2;
+            |  );
+            |  sprintf(#text,"%02d:%02d:%02d:%02d",(t/(f*3600))|0,(t/(f*60))%60,(t/f)%60,t%f);
+            |) : strcmp(#text,"")==0 ? input_get_name(-1,#text);
+            |gfx_str_measure(#text,txtw,txth);
+            |b = (border*txth)|0;
+            |yt = ((project_h - txth - b*2)*ypos)|0;
+            |xp = (xpos * (project_w-txtw))|0;
+            |gfx_set(bgc,bgc,bgc,bga);
+            |bga>0?gfx_fillrect(bgfit?xp-b:0, yt, bgfit?txtw+b*2:project_w, txth+b*2);
+            |gfx_set(fgc,fgc,fgc,fga);
+            |gfx_str_draw(#text,xp,yt+b);
+          >
+          CODEPARM 0.059 0.8 0.5 0.52 0 1 0.99 0.5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+        >
+        FLOATPOS 0 0 0 0
+        FXID {B0203C6F-D683-4A27-8F75-E31C2FE691C1}
+        WAK 0 0
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
       LENGTH 2
       LOOP 1
       ALLTAKES 0
@@ -214,7 +292,7 @@
       >
     >
     <ITEM
-      POSITION 2
+      POSITION 4.5
       SNAPOFFS 0
       LENGTH 2.5
       LOOP 1
@@ -292,7 +370,7 @@
       >
     >
     <ITEM
-      POSITION 4.5
+      POSITION 7
       SNAPOFFS 0
       LENGTH 2
       LOOP 1
@@ -370,7 +448,7 @@
       >
     >
     <ITEM
-      POSITION 6.5
+      POSITION 9
       SNAPOFFS 0
       LENGTH 2
       LOOP 1
@@ -448,7 +526,7 @@
       >
     >
     <ITEM
-      POSITION 8.5
+      POSITION 11
       SNAPOFFS 0
       LENGTH 2
       LOOP 1
@@ -526,7 +604,7 @@
       >
     >
     <ITEM
-      POSITION 10.5
+      POSITION 13
       SNAPOFFS 0
       LENGTH 2
       LOOP 1
@@ -604,7 +682,7 @@
       >
     >
     <ITEM
-      POSITION 12.5
+      POSITION 15
       SNAPOFFS 0
       LENGTH 2
       LOOP 1
@@ -682,7 +760,7 @@
       >
     >
     <ITEM
-      POSITION 14.5
+      POSITION 17
       SNAPOFFS 0
       LENGTH 2
       LOOP 1
@@ -756,84 +834,6 @@
         >
         FLOATPOS 0 0 0 0
         FXID {40ECF073-EDA5-4AD5-8909-1B501322943B}
-        WAK 0 0
-      >
-    >
-    <ITEM
-      POSITION 16.5
-      SNAPOFFS 0
-      LENGTH 2.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D8B6EFB4-141A-4EDD-AB11-67338C86F7B7}
-      IID 26
-      NAME "Colt Python - Spin - 002"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B8555F25-F92E-4108-BB9E-3C88E1E49C38}
-      <SOURCE WAVE
-        FILE "A:\restrained-firearms-soundpack\colt-python\Export\Restrained Freedom - Colt Python - Spin-002.wav"
-      >
-      <TAKEFX
-        WNDRECT 1203 120 655 408
-        SHOW 0
-        LASTSEL 0
-        DOCKED 0
-        BYPASS 0 0 0
-        <VIDEO_EFFECT "Video processor" ""
-          <CODE
-            |// Text/timecode overlay
-            |#text=""; // set to string to override
-            |font="Inter";
-            |
-            |//@param1:size 'text height' 0.05 0.01 0.2 0.1 0.001
-            |//@param2:ypos 'y position' 0.95 0 1 0.5 0.01
-            |//@param3:xpos 'x position' 0.5 0 1 0.5 0.01
-            |//@param4:border 'bg pad' 0.1 0 1 0.5 0.01
-            |//@param5:fgc 'text bright' 1.0 0 1 0.5 0.01
-            |//@param6:fga 'text alpha' 1.0 0 1 0.5 0.01
-            |//@param7:bgc 'bg bright' 0.75 0 1 0.5 0.01
-            |//@param8:bga 'bg alpha' 0.5 0 1 0.5 0.01
-            |//@param9:bgfit 'fit bg to text' 0 0 1 0.5 1
-            |//@param10:ignoreinput 'ignore input' 0 0 1 0.5 1
-            |
-            |//@param12:tc 'show timecode' 0 0 1 0.5 1
-            |//@param13:tcdf 'dropframe timecode' 0 0 1 0.5 1
-            |
-            |input = ignoreinput ? -2:0;
-            |project_wh_valid===0 ? input_info(input,project_w,project_h);
-            |gfx_a2=0;
-            |gfx_blit(input,1);
-            |gfx_setfont(size*project_h,font);
-            |tc>0.5 ? (
-            |  t = floor((project_time + project_timeoffs) * framerate + 0.0000001);
-            |  f = ceil(framerate);
-            |  tcdf > 0.5 && f != framerate ? (
-            |    period = floor(framerate * 600);
-            |    ds = floor(framerate * 60);
-            |    ds > 0 ? t += 18 * ((t / period)|0) + ((((t%period)-2)/ds)|0)*2;
-            |  );
-            |  sprintf(#text,"%02d:%02d:%02d:%02d",(t/(f*3600))|0,(t/(f*60))%60,(t/f)%60,t%f);
-            |) : strcmp(#text,"")==0 ? input_get_name(-1,#text);
-            |gfx_str_measure(#text,txtw,txth);
-            |b = (border*txth)|0;
-            |yt = ((project_h - txth - b*2)*ypos)|0;
-            |xp = (xpos * (project_w-txtw))|0;
-            |gfx_set(bgc,bgc,bgc,bga);
-            |bga>0?gfx_fillrect(bgfit?xp-b:0, yt, bgfit?txtw+b*2:project_w, txth+b*2);
-            |gfx_set(fgc,fgc,fgc,fga);
-            |gfx_str_draw(#text,xp,yt+b);
-          >
-          CODEPARM 0.059 0.8 0.5 0.52 0 1 0.99 0.5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-        >
-        FLOATPOS 0 0 0 0
-        FXID {B0203C6F-D683-4A27-8F75-E31C2FE691C1}
         WAK 0 0
       >
     >
@@ -1442,7 +1442,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 1103 265 1469 651
+      WNDRECT 1465 282 1469 651
       SHOW 0
       LASTSEL 0
       DOCKED 0
@@ -1529,11 +1529,63 @@
           |gfx_img_free(last_frame);
           |last_frame=gfx_img_hold(-1);
         >
-        CODEPARM 0 2480 2 1 0.16 0.95 1 0 0.5 1 0 0 0 0.5 0.5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+        CODEPARM 0 5000 2 6 0.17 0.74 1 1 1 1 0 0 0 0.5 0.5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       >
       PRESETNAME "Synthesis: Decorative Oscilloscope with Blitter (requires JSFX video sample peeker)"
       FLOATPOS 0 0 0 0
       FXID {42EA7951-3F6E-47E4-9EA1-3C734962B5D1}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VIDEO_EFFECT "Video processor" ""
+        <CODE
+          |// edge detection (vertical, slow)
+          |//@param 1:sens "sensitivity" 100 1 255 128 1
+          |//@param 2:offs "offset" 0 0 200 100 1
+          |//@param 3:saturation "saturation" 0 -10.0 10.0 1.0 0.1
+          |//@param 4:hqcolor "HQ color (slow)" 0 0 1 0 1
+          |//@param 5:clamp "clamp output" 1 0 1 0 1
+          |
+          |input_info(src=0,project_w,project_h) ? (
+          |  colorspace='YV12';
+          |  gfx_blit(src);
+          |
+          |  w2=project_w/2 - 1;
+          |
+          |  str1 = clamp && (offs + 255*sens) > 255 ? "min(255," : "(";
+          |
+          |  // sorry if this is hard to follow, eh, but it helps on the optimizing side
+          |  sprintf(#code, "(_1 -= 1) < 0 ? ( _1=w2; _2=y1; _3=y3; ); %s
+          |       _4 = %sabs(y1-_2)*%f + %f); _2 = y2;
+          |       y2 = %sabs(y2-y1)*%f + %f); y1=_4;
+          |       _4 = %sabs(y3-_3)*%f + %f); _3 = y4;
+          |       y4 = %sabs(y4-y3)*%f + %f); y3=_4;
+          |     ",
+          |     hqcolor>.5 && saturation!=0 ? "_5 = 1.0/(y1+y2+y3+y4);" : "",
+          |     str1,sens,offs,
+          |     str1,sens,offs,
+          |     str1,sens,offs,
+          |     str1,sens,offs);
+          |
+          |  saturation==0 ? (
+          |    strcat(#code,"u=v=128;");
+          |  ) : hqcolor>.5 ? (
+          |    sprintf(#code, "%s_5 *= (y1+y2+y3+y4);
+          |        u = (u-128)*_5*%f + 128;
+          |        v = (v-128)*_5*%f + 128;
+          |      ",
+          |      #code, saturation, saturation);
+          |  ) : saturation != 1.0 ? (
+          |    sprintf(#code,"%su=(u-128)*%f+128; v=(v-128)*%f+128;",#code,saturation,saturation);
+          |  );
+          |
+          |  gfx_evalrect(0,0,project_w,project_h, #code);
+          |);
+        >
+        CODEPARM 100 0 -10 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      >
+      PRESETNAME "FX: Edge detection (vertical)"
+      FLOATPOS 0 0 0 0
+      FXID {548A277D-2364-4197-B417-A09950A99AE3}
       WAK 0 0
     >
   >
