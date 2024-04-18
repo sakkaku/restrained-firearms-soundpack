@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.14/win64" 1713454666
+<REAPER_PROJECT 0.1 "7.14/win64" 1713455528
   AUTHOR Envalid
   <NOTES 0 2
   >
@@ -20,7 +20,7 @@
   PANMODE 3
   PANLAWFLAGS 3
   CURSOR 0
-  ZOOM 392.51779035621234 5205 0
+  ZOOM 392.51779035621234 9116 0
   VZOOMEX 5 0
   USE_REC_CFG 0
   RECMODE 1
@@ -144,7 +144,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {D8B6EFB4-141A-4EDD-AB11-67338C86F7B7}
       IID 26
       NAME "Colt Python - Spin - 002"
@@ -209,7 +209,7 @@
           CODEPARM 0.059 0.8 0.5 0.52 0 1 0.99 0.5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
         >
         FLOATPOS 0 0 0 0
-        FXID {B0203C6F-D683-4A27-8F75-E31C2FE691C1}
+        FXID {7EBAD4DA-66C7-40BA-8377-E2D89153105D}
         WAK 0 0
       >
     >
@@ -222,7 +222,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {50BB45C9-3C13-4415-9AAC-4DF09A93B4C6}
       IID 18
       NAME "Colt Python - Cylinder Open - 003"
@@ -300,7 +300,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {5D1E072D-C26E-4EE3-A744-FB0469AD4DDC}
       IID 19
       NAME "Colt Python - Load With Speed Loader - 001"
@@ -378,7 +378,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {A68D42EE-3E41-45F4-A107-77BBD04C7751}
       IID 20
       NAME "Colt Python - Cylinder Close - 003"
@@ -456,7 +456,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {416E1A8F-366A-4015-8763-F22454BA2C99}
       IID 21
       NAME "Colt Python - Hammer Cock - 005"
@@ -534,7 +534,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {595FFDF6-1E77-43BF-94C4-2840172CB8A0}
       IID 22
       NAME "Colt Python - Trigger Single Action - 001"
@@ -612,7 +612,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {61E51817-BDF8-4DB6-BB0B-E090FA7F5B0F}
       IID 23
       NAME "Colt Python - Trigger Release - 001"
@@ -690,7 +690,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {D3700DCB-BE38-4AA5-87F5-E137A951F173}
       IID 24
       NAME "Colt Python - Trigger Double Action - 002"
@@ -768,7 +768,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {0D76DEF2-57FE-4A40-BB0F-ECCB6E4045E1}
       IID 25
       NAME "Colt Python - Eject Spent Rounds - 002"
@@ -878,7 +878,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {F403BE57-03F4-4D77-8BF1-A222104C747A}
       IID 13
       NAME "Tikka T3 - Magazine Insert - 004"
@@ -956,7 +956,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {9A3FB876-B85A-4C35-8AA3-E7979BED3FE0}
       IID 14
       NAME "Tikka T3 - Load Round While Closing Bolt - 002"
@@ -1034,7 +1034,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {3603C65B-0C61-4672-ADC2-8484366F5508}
       IID 6
       NAME "Tikka T3 - Hammer on Brass - 001"
@@ -1112,7 +1112,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {0DB116C7-E119-461F-B3B8-E50DA239AF8C}
       IID 11
       NAME "Tikka T3 - Open Bolt and Eject Brass - 001"
@@ -1190,7 +1190,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {F66A7B6F-E105-49E0-9AB0-B4347A421D41}
       IID 15
       NAME "Tikka T3 - Empty Casing Impact - 001"
@@ -1268,7 +1268,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {333323FA-8E60-45AB-B33C-8C3B8F25FDE1}
       IID 16
       NAME "Tikka T3 - Magazine Eject - 002"
@@ -1346,7 +1346,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {ADEA8B7C-A456-4CE7-BCA2-229D1C861D91}
       IID 17
       NAME "Tikka T3 - Dropped Magazine Hitting Carpet"
@@ -1442,7 +1442,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 1465 282 1469 651
+      WNDRECT 1498 463 1469 651
       SHOW 0
       LASTSEL 0
       DOCKED 0
@@ -1529,7 +1529,7 @@
           |gfx_img_free(last_frame);
           |last_frame=gfx_img_hold(-1);
         >
-        CODEPARM 0 5000 2 6 0.17 0.74 1 1 1 1 0 0 0 0.5 0.5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+        CODEPARM 0 5000 5 6 0.22 0.74 1 0 1 1 1 0 0 0.5 0.5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       >
       PRESETNAME "Synthesis: Decorative Oscilloscope with Blitter (requires JSFX video sample peeker)"
       FLOATPOS 0 0 0 0
@@ -1581,11 +1581,41 @@
           |  gfx_evalrect(0,0,project_w,project_h, #code);
           |);
         >
-        CODEPARM 100 0 -10 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+        CODEPARM 100 0 -10 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       >
       PRESETNAME "FX: Edge detection (vertical)"
       FLOATPOS 0 0 0 0
       FXID {548A277D-2364-4197-B417-A09950A99AE3}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VIDEO_EFFECT "Video processor" ""
+        <CODE
+          |//RGB decompose
+          |//@param 1:r.x "red x offset" 0 -100 100 0 1
+          |//@param 2:r.y "red y offset" 0 -100 100 0 1
+          |//@param 3:g.x "green x offset" 0 -100 100 0 1
+          |//@param 4:g.y "green y offset" 0 -100 100 0 1
+          |//@param 5:b.x "blue x offset" 0 -100 100 0 1
+          |//@param 6:b.y "blue y offset" 0 -100 100 0 1
+          |
+          |gdf=g.x != r.x || g.y != r.y;
+          |bdf=b.x != r.x || b.y != r.y;
+          |
+          |colorspace='RGBA';
+          |input_info(0,project_w,project_h);
+          |
+          |gfx_fillrect(0,0,project_w,project_h);
+          |!gdf || !bdf ? gfx_blit(0) : (
+          |  gfx_mode=0xfa; gfx_blit(0,0, r.x,r.y);
+          |);
+          |gdf ? (gfx_mode=0xf5; gfx_blit(0,0, g.x,g.y) );
+          |bdf ? (gfx_mode=0xf0; gfx_blit(0,0, b.x,b.y) );
+        >
+        CODEPARM 10 10 20 0 30 -10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      >
+      PRESETNAME "FX: RGB decompose"
+      FLOATPOS 0 0 0 0
+      FXID {FAC8718B-B2E0-485E-B2D4-E9F7ACC64503}
       WAK 0 0
     >
   >
