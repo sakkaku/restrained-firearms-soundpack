@@ -11,8 +11,9 @@ This is a sound pack of various operations on a colt python.  This is my first a
 ## Software
 
 - Reaper 7.x
-- UAD API Vision Channel Strip
-- UAD Struder A800 Tape
+- iZotope RX Standard
+- UAD Plugins
+- Fabfilter Q3
 
 ## Project Structure
 
