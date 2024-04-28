@@ -9,7 +9,7 @@ This is a sound library and instructional for various firearms related sounds an
 
 # Preview (Youtube)
 
-[![Youtube Preview of Sounds](https://img.youtube.com/vi/y4w1hZITpz8/0.jpg)](https://www.youtube.com/watch?v=y4w1hZITpz8)
+[![Youtube Preview of Sounds](https://img.youtube.com/vi/nr529TbziD8/1.jpg)](https://www.youtube.com/watch?v=nr529TbziD8)
 
 # Licensing
 
